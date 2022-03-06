@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: android-system-gsi-29-bin
-Source: https://github.com/droidian/android-system-gsi-29-bin
+Upstream-Name: android-system-gsi-30-bin
+Source: https://github.com/droidian/android-system-gsi-30-bin
 
 Files: *
 Copyright: 2021 Eugenio "g7" Paolantonio <me@medesimo.eu>
