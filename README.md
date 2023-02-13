@@ -1,7 +1,7 @@
-android-system-gsi-28-bin
+android-system-gsi-30-bin
 =========================
 
-This package ships a pre-built Android 9 GSI (Generic System Image)
+This package ships a pre-built Android 11 GSI (Generic System Image)
 so that the Halium initramfs can pick it up during boot.
 
 Why does it matter?
